@@ -16,7 +16,7 @@
 
 # Locale.
 
-fa_IR:
+en:
   activerecord:
     attributes:
       user:
